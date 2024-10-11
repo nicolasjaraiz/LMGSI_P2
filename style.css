@@ -1,0 +1,48 @@
+		h1 {
+		color: #aa1111;
+		font: bold;
+		text-align: center;
+		}
+
+		caption {
+		color: aqua;
+		size: 25px;
+		}
+		th {
+		width: 100px;
+		background-color: beige;
+		text-align: center;
+		font: bold;
+		}
+		table {
+			border-color: black;
+		}
+		.Sost {
+			background-color: bisque;
+
+		}
+		.AN{
+			background-color: blue;
+		}
+		.IPOI{
+			background-color: aquamarine;
+		}
+		.ISO{
+			background-color: greenyellow;
+		}
+		.FM{
+			background-color: wheat;
+		}
+		.TUT{
+			background-color:  peru;
+		}
+		.BBDD{
+			background-color: blueviolet;
+		}
+		.LMSGI{
+			background-color: azure;
+		}
+		.M3{
+			background-color: indigo;
+		}
+		.PAX{background-color: firebrick;}
